@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zetmy</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Задачи</string>
+    <string name="title_notifications">Настройки</string>
+    <string name="about_time">Примерное время выполнения</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

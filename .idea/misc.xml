@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable-anydpi/ic_pin.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable-anydpi/ic_settings.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable-anydpi/ic_settings_blue.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/click_animation.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/dashboard_selector.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/edit_text_style.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/gardient.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/home_selector.xml" value="1.5642857142857143" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/ic_dashboard_blue.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/ic_dashboard_blue_24dp.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/ic_home_blue.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/rounded_button.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/settings_selector.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/task_color_change.xml" value="0.2703125" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/drawable/task_frame_style.xml" value="0.14635416666666667" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/font/roboto_medium.xml" value="0.284375" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/edit_task_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/fragment_home.xml" value="0.3506311360448808" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/fragment_new_task.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/fragment_notifications.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/fragment_set_task_date.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/fragment_set_task_duration.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/new_task_fragment.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/new_tasks_fragment.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/task_background.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/layout/test_fragment.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/AndroidStudioProjects/zetmy_java/app/src/main/res/menu/home_selector.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
